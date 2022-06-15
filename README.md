@@ -8,9 +8,9 @@ Quem trabalha fora, tem uma rotina bastante agitada ou é incapaz de realizar se
 O aplicativo é web portando os pré requisitos principais para a utilização do nosso programa é ter acesso a uma internet rápida e estável e
 possuir um smartphone podendo ser android ou ios. Também é possível uttilizar o aplicativo através de um computador com qualquer sistema operacional desde que tenha acesso a um navegador. 
 ### Como ter acesso ao aplicativo: 
-Para ter acesso a nosso aplicativo, após seguir os requisitos, é necessário apenas abrir um navegador de sua preferência, digitar o nome do nosso aplicativo no caso "Faxinapp".
+Para ter acesso a nosso aplicativo, após seguir os requisitos, é necessário apenas abrir um navegador de sua preferência, digitar o nome do nosso aplicativo "Faxinapp".
 ### Programa em execução:
-Após aberto o usuário será direcionado a interface do nosso app e estará pronto para agendar seu serviço. O usuário faz o cadastro no site e em seguida pode estar realizando seu agendamento de tarefa doméstica, podendo selecionar a data, horário, profissional desejado e tipo de serviço.
+Após aberto, o usuário será direcionado a interface do nosso app e estará pronto para agendar seu serviço. O usuário faz o cadastro no site e em seguida pode estar realizando seu agendamento de tarefa doméstica, podendo selecionar a data, horário, profissional desejado e tipo de serviço.
 ### Erros:
 caso ocorra algum erro no aplicativo, tentar reinicia-lo ou entrar em contato com algum de nossos desenvolvedores. 
 ### Desenvolvedores:
