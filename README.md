@@ -16,7 +16,7 @@ caso ocorra algum erro no aplicativo, tentar reinicia-lo ou entrar em contato co
 ### Desenvolvedores:
 Winicius dos santos, Tiago Olivera, Vinicius Ferreira, Marcelo Sales
 ### Contato:
-Faxinapp_a@gmail.com
+Faxinappa@gmail.com
 ### Histórico da versão
 0.1
 Versão inicial
