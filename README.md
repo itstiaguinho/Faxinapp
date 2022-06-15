@@ -20,12 +20,12 @@ Vinicius Ferreira
 Marcelo Sales
 ### Contato:
 Faxinapp_a@gmail.com
-### Histórico da versão:
+### Histórico da versão
 0.1
 Versão inicial
-### Licença:
+### Licença
 Este projeto é licenciado sob a Licença [USF] - consulte o arquivo LICENSE.md para obter detalhes
-### agradecimentos:
+### agradecimentos
 Projeto moldado pelo professor Matias
 
 
