@@ -14,7 +14,7 @@ Após aberto o usuário será direcionado a interface do nosso app e estará pro
 ### Erros:
 caso ocorra algum erro no aplicativo, tentar reinicia-lo ou entrar em contato com algum de nossos desenvolvedores. 
 ### Desenvolvedores:
-Winicius dos santos,Tiago Olivera, Vinicius Ferreira, Marcelo Sales
+Winicius dos santos, Tiago Olivera, Vinicius Ferreira, Marcelo Sales
 ### Contato:
 Faxinapp_a@gmail.com
 ### Histórico da versão
